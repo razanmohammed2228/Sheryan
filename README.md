@@ -6,32 +6,30 @@ Team information:
 Team Name :- Designly.  
 Team Members :-  
 1-	Roaa Wael.  
-2-	Razan Mohammed.  
+2-	Razan Mohammed Hasan.  
 3-	Mohammed Ebrahim Abdelmajeed.  
 4-	Mohammed Mohammed Abdelmajeed.  
 ________________________________________________________________________________________________________________________________
+Team Roles & Responsibilities :
+Roaa Wael| UX Researcher
+Conducting user research (interviews and surveys) to understand blood donors' needs.
+Creating user Personas and conducting SWOT Analysis.
 
-Team Roles & Responsibilities :  
+Mohammed Ebrahim Abdelmajeed | UX Designer
+Designing Wireframes and organizing content structure.
+Mapping the User Flow and User Journey Map to ensure smooth navigation.
 
-[Roaa Wael] | UX Researcher  
+Razan Mohammed Hasan| UI Designer
+Creating the Style Guide (Colors, Fonts, and Icons) reflecting the project identity.
+Developing High-Fidelity Prototypes using Figma.
 
-Conducting user research (interviews and surveys) to understand blood donors' needs.  
-Creating user Personas and conducting SWOT Analysis.  
+Mohammed Mohammed Abdelmajeed | Quality & Documentation Specialist
+Conducting Usability Testing with real users to refine the design.
+Preparing the Final Report and the presentation of all design phases.
 
-[Razan Mohammed] | UX Designer  
-
-Designing Wireframes and organizing content structure.  
-Mapping the User Flow and User Journey Map to ensure smooth navigation.  
-
-[Mohammed Ebrahim Abdelmajeed] | UI Designer  
-
-Creating the Style Guide (Colors, Fonts, and Icons) reflecting the project identity.  
-Developing High-Fidelity Prototypes using Figma.  
-
-[Mohammed Mohammed Abdelmajeed] | Quality & Documentation Specialist  
-
-Conducting Usability Testing with real users to refine the design.  
-Preparing the Final Report and the presentation of all design phases.  
+________________________________________
+Figma Link:
+https://www.figma.com/design/WTMKu34lIHN9pA3oGxOIUn/UI-UX-Graduation-Project?node-id=0-1&t=xYAPTFesLmZh3iFK-1
 _________________________________________________________________________________________________________________________________
 Google drive:  
 https://drive.google.com/drive/folders/1fwLImpkTO4dfDE0hZ6TS-wiA0neduf2K?usp=sharing
