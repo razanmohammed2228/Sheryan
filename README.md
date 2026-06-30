@@ -31,8 +31,6 @@ ________________________________________
 Figma Link:
 https://www.figma.com/design/WTMKu34lIHN9pA3oGxOIUn/UI-UX-Graduation-Project?node-id=0-1&t=xYAPTFesLmZh3iFK-1
 _________________________________________________________________________________________________________________________________
-Google drive:  
-https://drive.google.com/drive/folders/1fwLImpkTO4dfDE0hZ6TS-wiA0neduf2K?usp=sharing
 _________________________________________________________________________________________________________________________________
 Supervision:  
 Instructor Name: Eng.MohamedKamar  
