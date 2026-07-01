@@ -5,10 +5,10 @@ ________________________________________________________________________________
 Team information:  
 Team Name :- Designly.  
 Team Members :-  
-1-	Roaa Wael.  
-2-	Razan Mohammed Hasan.  
-3-	Mohammed Ebrahim Abdelmajeed.  
-4-	Mohammed Mohammed Abdelmajeed.  
+1-  Razan Mohammed Hasan.
+2-	Mohammed Ebrahim Abdelmajeed.  
+3-	Mohammed Mohammed Abdelmajeed. 
+4- 	Roaa Wael.  
 ________________________________________________________________________________________________________________________________
 Team Roles & Responsibilities :
 Roaa Wael| UX Researcher
